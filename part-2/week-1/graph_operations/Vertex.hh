@@ -2,7 +2,6 @@
  * of a graph. Each vertex contains information regarding whether it has been
  * visited before or not, and a list of edges to all the other vertices that
  * it is connected to.
- */
 
 #ifndef VERTEX_HH
 #define VERTEX_HH

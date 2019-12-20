@@ -1,6 +1,7 @@
- * Contains declarations for function to calculate time difference between
+/**
+* Contains declarations for function to calculate time difference between
  * two timeval structures.
- */
+*/
 
 #ifndef BENCHMARK_H
 #define BENCHMARK_H
