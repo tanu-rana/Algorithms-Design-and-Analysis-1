@@ -1,6 +1,4 @@
-# Part - 3
-
-This part contains the following algorithms/concepts:
+# Course - 3
 
 - Week 1:
     1. Job completion times
