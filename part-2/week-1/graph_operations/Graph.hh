@@ -5,7 +5,6 @@
  * bfs and dfs, sorting vertices topologically, reversing the directed edges,
  * computing connected components, shortest path and strictly connected
  * components.
- */
 
 #ifndef GRAPH_HH
 #define GRAPH_HH
