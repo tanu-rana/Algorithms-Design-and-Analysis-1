@@ -1,6 +1,7 @@
- * Represents a vertex of a graph that is connected to other vertices which
+/**
+* Represents a vertex of a graph that is connected to other vertices which
  * are represented in the form of a list of edges.
- */
+*/
 
 #ifndef VERTEX_HH
 #define VERTEX_HH
