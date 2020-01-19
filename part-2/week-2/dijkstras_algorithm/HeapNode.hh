@@ -1,4 +1,4 @@
-:wq
+/**
 * Represents a node in the heap.
  */
 
