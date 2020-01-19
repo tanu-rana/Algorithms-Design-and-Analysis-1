@@ -1,3 +1,4 @@
+ /**
  * Represents a directed edge of a vertex. Used for the adjacency list
  * representation of a directed weighted graph.
  */
