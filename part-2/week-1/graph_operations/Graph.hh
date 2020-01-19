@@ -1,10 +1,11 @@
-
+/**
  * This header file contains the declaration of a class representing a Graph.
  * The graph is represented using an adjacency list. The graph may be
  * directed or undirected. It can have multiple operations - traversing using
  * bfs and dfs, sorting vertices topologically, reversing the directed edges,
  * computing connected components, shortest path and strictly connected
  * components.
+*/
 
 #ifndef GRAPH_HH
 #define GRAPH_HH
