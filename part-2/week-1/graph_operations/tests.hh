@@ -1,4 +1,5 @@
- * Contains tests for Graph operations.
+/**
+* Contains tests for Graph operations.
  */
 
 #ifndef TESTS_H
